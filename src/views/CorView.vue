@@ -48,7 +48,7 @@ async function excluir(id) {
   <ul>
     <li v-for="cor in cores" :key="cor.id">
       <span @click="editar(cor)">
-        ({{ cor.id }}) - {{ cor.nome }} -
+        |{{ cor.id }}| {{ cor.nome }} 
       </span>
       <button @click="excluir(cor.id)">X</button>
     </li>
