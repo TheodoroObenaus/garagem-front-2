@@ -5,7 +5,7 @@ import "@passageidentity/passage-elements/passage-auth";
 <template>
   <h1>Login</h1>
   <div class="authContainer">
-    <passage-auth app-id="KGPOjJlyfW4TksKVJgjGyK4f"></passage-auth>
+    <passage-auth app-id="FzFI7VaQUXP8HQNEFKxcrehM"></passage-auth>
   </div>
 </template>
 
